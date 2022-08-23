@@ -1,0 +1,9 @@
+<h2>Web Design</h2>
+                    <p></p>
+                    <a href="#">Learn More</a>
+                </div>
+                <div>
+                    <i class="fa-solid fa-crop-simple"></i>
+                    <h2>UI/UX Design</h2>
+                    <p>UX (user experience) and UI (user interface) are two interdependent terms. While UI generally deals with the interaction between users and computer systems, software and applications, UX deals more generally with a user’s overall experience with a brand, product or service.</p>
+                    <a href="#">Learn More</a>
